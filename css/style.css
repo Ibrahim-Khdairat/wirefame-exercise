@@ -88,6 +88,7 @@ article:last-child img
     float: left;
     margin-left: 84px;
     margin-bottom: 20px;
+    margin-left: 280px;
 }
 
 div p 
@@ -110,7 +111,7 @@ div h4
     float: right;
     width: 440px;
     height: 370px;
-    margin-right: 85px;
+    margin-right: 280px;
     overflow-x: auto;
 }
 
@@ -137,7 +138,7 @@ article:last-child a:hover
 article:last-child a
 {
     float: right;
-margin-right: 370px;
+margin-right: 550px;
 text-decoration: none;
 width : 150px;
 height: 30px;
